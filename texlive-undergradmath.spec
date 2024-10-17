@@ -3,7 +3,7 @@ Version:	57286
 Release:	2
 Summary:	LaTeX Math for Undergraduates cheat sheet
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/undergradmath
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/undergradmath
 License:	cc-by-sa-4
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/undergradmath.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/undergradmath.doc.r%{version}.tar.xz
